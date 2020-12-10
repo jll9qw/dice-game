@@ -1,5 +1,5 @@
  # The 🎲 Game #
-If you blend Black Jack and Cee lo together then you get this simple JavaScript game! 
+If you blend Black Jack and Cee lo together then you get this simple JavaScript game! 🕹
 
  ### Rules ###
  1. A player rolls the dice  🎰🎲
